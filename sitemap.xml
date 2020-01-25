@@ -3,27 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://www.mindlessruff.com/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.mindlessruff.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://www.mindlessruff.com/posts/introduction/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.mindlessruff.com/posts/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.mindlessruff.com/tags/</loc>
   </url>
   
   <url>
-    <loc>/posts/test/</loc>
+    <loc>https://www.mindlessruff.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.mindlessruff.com/posts/test/</loc>
   </url>
   
 </urlset>
